@@ -29,3 +29,12 @@ main:
     doi: 10.1109/TVT.2026.3685307
     #image: ./assets/img/apass_teaser.png
     # notes:
+
+  - title: "Federated Learning for C-Band SAR-Based Wildfire Burn Mapping Across Distributed Ground Stations"
+    authors: <strong>Lachlan Drake</strong>, Lawrence Ong, Duy T. Ngo, and Matthew Garthwaite
+    conference_short: PIMRC
+    conference: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications <strong>(PIMRC)</strong>, 2026.
+    # pdf:
+    # doi: 
+    #image: ./assets/img/apass_teaser.png
+    notes: Proceedings not yet published.

@@ -34,7 +34,6 @@ main:
     authors: <strong>Lachlan Drake</strong>, Lawrence Ong, Duy T. Ngo, and Matthew Garthwaite
     conference_short: PIMRC
     conference: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications <strong>(PIMRC)</strong>, 2026.
-    # pdf:
-    # doi: 
+    pdf: https://doi.org/10.1109/PIMRC69400.2026.11711778
+    doi: 10.1109/PIMRC69400.2026.11711778
     #image: ./assets/img/apass_teaser.png
-    notes: Proceedings not yet published.
